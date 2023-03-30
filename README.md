@@ -1,2 +1,2 @@
 # react-memo
-Memorama hecho con React
+Memorama de verduras en japonés hecho con React
